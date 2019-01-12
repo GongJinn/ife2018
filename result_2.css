@@ -1,0 +1,30 @@
+body{
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;    
+}
+span,dt{
+    font-weight: bold;
+    white-space: pre;
+}
+div{
+    white-space: pre;    
+    margin-left: 160px;    
+}
+a{
+    color:blue;
+}
+dd{
+    text-indent:0;
+    margin:0px;
+}
+div.title{
+    float: left;
+    background-color:rgb(65, 133, 223);
+    width  : 100px;
+    height : 600px;
+    padding: 20px;
+    margin : 0;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
